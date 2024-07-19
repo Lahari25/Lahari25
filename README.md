@@ -1,5 +1,5 @@
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/chat.svg)](https://www.linkedin.com/in/lahariappala) 
+[![](https://github.com/Lahari25/Lahari25/blob/main/chat.svg)](https://www.linkedin.com/in/lahariappala) 
 
 
 
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/lahariappala)
+[![](https://github.com/Lahari25/Lahari25/blob/main/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/lahariappala)
