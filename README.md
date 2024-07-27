@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lahariappala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahari" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="lahari" /> </p>
+
 
 - 🔭 I’m currently working on **OpenCv** projects
 
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **DataScience,Ml,Dl,Web Dev**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing])
+
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
