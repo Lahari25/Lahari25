@@ -18,7 +18,7 @@
 
 - 👨‍💻 Look at my portfolio 
 
-- 💬 Ask me about **DataScience,Ml,Dl,Web Development**
+- 💬 Ask me about ** Software Development,Web Development, DataScience,Ml,Dl,**
 
 
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
