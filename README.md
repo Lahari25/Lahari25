@@ -14,13 +14,11 @@
 </p>
 
 
-- 🔭 I’m currently working on **OpenCv** projects
 
-- 🌱 I’m currently learning **Data Science,Web Dev**
 
 - 👨‍💻 Look at my portfolio 
 
-- 💬 Ask me about **DataScience,Ml,Dl,Web Dev**
+- 💬 Ask me about **DataScience,Ml,Dl,Web Development**
 
 
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
