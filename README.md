@@ -16,7 +16,11 @@
 
 
 
-- 👨‍💻 Look at my portfolio 
+<p align="center">
+  <a href="https://lakshmilahari.netlify.app/" target="_blank" style="text-decoration:none; color:#0366d6; font-weight:bold;">
+    👨‍💻 Check out my portfolio
+  </a>
+</p>
 
 - 💬 Ask me about ** Software Development,Web Development, DataScience,Ml,Dl,**
 
